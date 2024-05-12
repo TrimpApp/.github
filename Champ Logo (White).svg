@@ -5,7 +5,7 @@
    height="88.027"
    viewBox="0 0 282.29502 88.027"
    id="svg18"
-   sodipodi:docname="Champ Logo.svg"
+   sodipodi:docname="Champ Logo (White).svg"
    inkscape:export-filename="Champ Logo.png"
    inkscape:export-xdpi="1134.1951"
    inkscape:export-ydpi="1134.1951"
@@ -27,8 +27,8 @@
      inkscape:deskcolor="#505050"
      showgrid="false"
      inkscape:zoom="2.2317063"
-     inkscape:cx="106.42081"
-     inkscape:cy="68.333363"
+     inkscape:cx="16.803286"
+     inkscape:cy="68.333364"
      inkscape:window-width="1920"
      inkscape:window-height="991"
      inkscape:window-x="-9"
@@ -42,7 +42,7 @@
      stroke-linecap="round"
      stroke-linejoin="round"
      id="path4"
-     style="mix-blend-mode:normal" />
+     style="mix-blend-mode:normal;fill:#ffcc33;fill-opacity:1" />
   <path
      d="m 22.69068,20.81468 c 11.684,0 19.81201,7.45071 21.50534,13.97009 l -11.51467,2.87869 c -1.35467,-4.57203 -5.16467,-7.45071 -9.99067,-7.45071 -6.604,0 -10.75267,5.1647 -10.75267,13.12341 0,8.04337 4.14867,13.20808 10.75267,13.20808 4.65667,0 8.55134,-2.79402 10.07534,-7.19671 l 11.43,2.87869 C 42.58735,58.4916 34.37468,65.94231 22.69068,65.94231 9.48268,65.94231 0,56.62892 0,43.33617 0,30.04341 9.48267,20.81469 22.69068,20.81469 Z"
      fill="#ffffff"
