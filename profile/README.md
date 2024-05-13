@@ -5,3 +5,4 @@
 </picture></h1>
 Champ is a Scratch 3.0 mod with ActivityPub.
 Right now it's still being worked on, so please be patient. The project homepage link will appear when this social platform's finished.
+[To do list](https://justpaste.it/ChampToDoList)
