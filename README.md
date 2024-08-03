@@ -1,2 +1,2 @@
 # .github
-This is here to give Champ's organization a README.md file.
+This is here to give Trimp's organization a README.md file.
